@@ -1,10 +1,23 @@
 title: Rahul Kumar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Lead Data Scientist
-  <br> <br>
-  
-  <br><br>
+ Lead Data Scientist & AI Strategist
+ 
+ Building next-generation AI systems at the intersection of Generative AI,
+ Machine Learning, Optimization, and Decision Intelligence.
+ 
+ With 12+ years of experience, I specialize in architecting scalable AI
+ platforms, leading cross-functional teams, and translating cutting-edge
+ research into business value across automotive, logistics, fintech,
+ and telecommunications industries.
+ 
+ Expertise: Generative AI • LLMs • Agentic AI • Recommendation Systems •
+ Reinforcement Learning • Causal AI • Knowledge Graphs • Optimization •
+ MLOps • Applied Research
+ 
+ Passionate about solving real-world problems through data, algorithms, 
+ and intelligent systems.
+ 
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
