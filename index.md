@@ -1,31 +1,37 @@
-## Portfolio
+# Portfolio
 
----
+## Featured Projects
 
-### Category Name 1 
+### Fleet Intelligence & Predictive Maintenance
+Built AI systems for trailer health monitoring, fault diagnosis,
+breakdown prediction, and fleet analytics.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Generative AI Knowledge Assistant
+Developed enterprise RAG and LLM-based assistants for technical
+documentation and fault-code reasoning.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Recommendation & Optimization Systems
+Designed retrieval, ranking, and reinforcement-learning solutions
+for large-scale recommendation and decision systems.
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Causal AI & Explainability
+Built causal discovery frameworks and root-cause analysis solutions
+for operational performance optimization.
 
----
+## Publications & Research
 
-### Category Name 2
+- Retrieval-Augmented Generation (RAG)
+- Recommendation Systems
+- Reinforcement Learning
+- Causal Inference
+- Knowledge Graphs
+- Fleet Analytics
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+## Contact
 
----
+LinkedIn: ...
+GitHub: ...
+Email: ...
 
 
 
