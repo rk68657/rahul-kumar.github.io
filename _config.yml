@@ -14,8 +14,9 @@ description: > # your text below (remove <br> elements if you don't need line br
  and intelligent systems.
  <br><br>
  <a href="https://www.linkedin.com/in/rahulkumar-ds/">View My LinkedIn Profile</a>
- <p style="font-size:12px">
-Education: M.Tech Indian Institute of Technology Hyderabad| Focus: ML Systems, Optimization, AI Architecture
+<h3>Education</h3>
+<p>
+M.Tech, IIT Hyderabad — Machine Learning Systems, Optimization, AI Architecture
 </p>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
