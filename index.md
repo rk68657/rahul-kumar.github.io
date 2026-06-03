@@ -1,6 +1,5 @@
 # Portfolio
 
-## Featured Projects
 
 ### Hybrid Reinforcement Learning & Optimization for Urban Mobility
 Developed a hybrid Reinforcement Learning and Operations Research framework 
