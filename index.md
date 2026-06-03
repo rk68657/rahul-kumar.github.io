@@ -24,12 +24,6 @@ for operational performance optimization.
 
 ## Publications & Research
 
-- Retrieval-Augmented Generation (RAG)
-- Recommendation Systems
-- Reinforcement Learning
-- Causal Inference
-- Knowledge Graphs
-- Fleet Analytics
 
 ## Contact
 
