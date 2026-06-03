@@ -2,6 +2,11 @@
 
 ## Featured Projects
 
+### Hybrid Reinforcement Learning & Optimization for Urban Mobility
+Developed a hybrid Reinforcement Learning and Operations Research framework 
+for large-scale taxi fleet rebalancing, integrating demand forecasting, 
+Min-Cost Flow optimization, and MPC-based simulation.
+
 ### Fleet Intelligence & Predictive Maintenance
 Built AI systems for trailer health monitoring, fault diagnosis,
 breakdown prediction, and fleet analytics.
