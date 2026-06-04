@@ -24,7 +24,6 @@ for operational performance optimization.
 
 ## Publications & Research
 
-
 ## Contact
 
 LinkedIn: ...
