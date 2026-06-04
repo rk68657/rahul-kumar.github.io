@@ -1,26 +1,16 @@
 # Portfolio
 
 
-### Hybrid Reinforcement Learning & Optimization for Urban Mobility
-Developed a hybrid Reinforcement Learning and Operations Research framework 
-for large-scale taxi fleet rebalancing, integrating demand forecasting, 
-Min-Cost Flow optimization, and MPC-based simulation.
-
-### Fleet Intelligence & Predictive Maintenance
-Built AI systems for trailer health monitoring, fault diagnosis,
-breakdown prediction, and fleet analytics.
-
-### Generative AI Knowledge Assistant
-Developed enterprise RAG and LLM-based assistants for technical
-documentation and fault-code reasoning.
-
-### Recommendation & Optimization Systems
-Designed retrieval, ranking, and reinforcement-learning solutions
-for large-scale recommendation and decision systems.
-
-### Causal AI & Explainability
-Built causal discovery frameworks and root-cause analysis solutions
-for operational performance optimization.
+## Hybrid Reinforcement Learning & Optimization for Urban Mobility
+Engineered a hybrid fleet rebalancing architecture for taxi fleets, integrating a LightGBM-based demand forecaster with a financially optimized Min-Cost Flow (MCF) solver. Leveraged Model Predictive Control (MPC) to simulate complex spatio-temporal dynamics, achieving a 92% service coverage ratio across Manhattan under strict budget constraints. This serves as a high-fidelity baseline for evaluating RL in large-scale dispatch systems.
+## Fleet Intelligence & Predictive Maintenance
+Developed advanced AI frameworks for commercial fleets and automotive subsystems. Architected a Deep Autoencoder and Gaussian Mixture Model (GMM) framework for truck predictive maintenance, processing high-dimensional sensor data to achieve 92% precision in anomaly detection. Additionally, designed a Fuel Optimization Platform utilizing K-Means, XGBoost, and Uplift Modeling with SHAP explainability, successfully reducing fleet fuel consumption by 10%.
+## Generative AI & Multi-Agent Workflows
+Led the AI roadmap for resolving complex fleet management queries using Data Agents. Built an LLM-powered SQL agent integrated with domain-specific knowledge graphs, improving query accuracy by 30% and reducing errors by 18%. Deployed multi-agent workflows that streamlined operations and reduced overall turnaround time by 28%.
+## Recommendation, NLP & Optimization Systems
+Designed and deployed retrieval and ranking systems at scale. At Ericsson, delivered a content recommender system that improved personalization and coverage by 25% (validated via A/B testing). At PayPal, designed fine-tuned NLP transformers (Longformer, SetFit) and sequential models (LSTM) for complaint identification and contact propensity, reducing support costs by 15% and boosting feature detection accuracy from 72% to 89%.
+## Causal AI & Automated Root Cause Analysis
+Built causal discovery frameworks and root-cause analysis solutions for operational performance. Developed an AI-driven monitoring system using time-series models and Dynamic Time Warping (DTW) to automate root cause analysis for telecom order failures, cutting RCA turnaround time by 50%. Currently architecting a fleet benchmarking platform using counterfactuals and SHAP to quantify inefficiencies and enable "what-if" scenario planning.
 
 ## Publications & Research
 
