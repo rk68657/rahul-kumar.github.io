@@ -12,7 +12,7 @@ Built causal discovery frameworks and root-cause analysis solutions for operatio
 
 ## Publications & Research
 
-### Education
+## Education
 
 * **M.Tech, Data Science** – Indian Institute of Technology (IIT) Hyderabad  
   *(2024 – 2026, Ongoing) | CGPA: 9.83*
