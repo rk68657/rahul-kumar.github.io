@@ -14,9 +14,8 @@ Built causal discovery frameworks and root-cause analysis solutions for operatio
 
 ## Contact
 
-LinkedIn: ...
-GitHub: ...
-Email: ...
+LinkedIn: https://www.linkedin.com/in/rahulkumar-ds/
+Email: rk68657@gmail.com
 
 
 
