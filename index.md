@@ -12,11 +12,12 @@ Built causal discovery frameworks and root-cause analysis solutions for operatio
 
 ## Publications & Research
 
-## Contact
+### Education
 
-LinkedIn: https://www.linkedin.com/in/rahulkumar-ds/
-Email: rk68657@gmail.com
-
+* **M.Tech, Data Science** – Indian Institute of Technology (IIT) Hyderabad  
+  *(2024 – 2026, Ongoing) | CGPA: 9.83*
+* **B.Tech, Electronics & Communication** – SRM Institute of Science & Technology, Chennai  
+  *(2009 – 2013) | GPA: 8.2*
 
 
 
