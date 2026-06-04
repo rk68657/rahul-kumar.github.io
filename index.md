@@ -3,8 +3,6 @@
 
 ## Hybrid Reinforcement Learning & Optimization for Urban Mobility
 Engineered a hybrid fleet rebalancing architecture for taxi fleets, integrating a LightGBM-based demand forecaster with a financially optimized Min-Cost Flow (MCF) solver. Leveraged Model Predictive Control (MPC) to simulate complex spatio-temporal dynamics, achieving a 92% service coverage ratio across Manhattan under strict budget constraints. This serves as a high-fidelity baseline for evaluating RL in large-scale dispatch systems.
-## Fleet Intelligence & Predictive Maintenance
-Developed advanced AI frameworks for commercial fleets and automotive subsystems. Architected a Deep Autoencoder and Gaussian Mixture Model (GMM) framework for truck predictive maintenance, processing high-dimensional sensor data to achieve 92% precision in anomaly detection. Additionally, designed a Fuel Optimization Platform utilizing K-Means, XGBoost, and Uplift Modeling with SHAP explainability, successfully reducing fleet fuel consumption by 10%.
 ## Generative AI & Multi-Agent Workflows
 Led the AI roadmap for resolving complex fleet management queries using Data Agents. Built an LLM-powered SQL agent integrated with domain-specific knowledge graphs, improving query accuracy by 30% and reducing errors by 18%. Deployed multi-agent workflows that streamlined operations and reduced overall turnaround time by 28%.
 ## Recommendation, NLP & Optimization Systems
